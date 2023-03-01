@@ -1,2 +1,2 @@
 # AWS_Machine_Learning
-AWS ML services
+How to use AWS ML services will be shown in this repo.
